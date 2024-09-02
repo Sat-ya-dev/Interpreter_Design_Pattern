@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|solutionrelative:interpreterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|solutionrelative:interpreterdesignpattern\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|solutionrelative:interpreterdesignpattern\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732F314E-8009-4655-9A56-69CC6BFFE9CA}|InterpreterDesignPattern\\InterpreterDesignPattern.csproj|solutionrelative:interpreterdesignpattern\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB11715E-6B10-49DC-A084-06FC3B768745}|InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB11715E-6B10-49DC-A084-06FC3B768745}|InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj|solutionrelative:interpreterdesignpattern.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB11715E-6B10-49DC-A084-06FC3B768745}|InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj|c:\\users\\satya\\source\\repos\\interpreterdesignpattern\\interpreterdesignpattern.tests\\interpreterdesignpattern.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB11715E-6B10-49DC-A084-06FC3B768745}|InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj|solutionrelative:interpreterdesignpattern.tests\\interpreterdesignpattern.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterpreterDesignPattern.Tests",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj",
+              "RelativeToolTip": "InterpreterDesignPattern.Tests\\InterpreterDesignPattern.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T07:14:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "InterpreterDesignPattern.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T07:12:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Interpreter.cs",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern\\Interpreter.cs",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Interpreter.cs",
+              "RelativeToolTip": "InterpreterDesignPattern\\Interpreter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:21:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Expression.cs",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern\\Expression.cs",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Expression.cs",
+              "RelativeToolTip": "InterpreterDesignPattern\\Expression.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:17:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Context.cs",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern\\Context.cs",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Context.cs",
+              "RelativeToolTip": "InterpreterDesignPattern\\Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:15:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "InterpreterDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Satya\\source\\repos\\InterpreterDesignPattern\\InterpreterDesignPattern\\Program.cs",
+              "RelativeToolTip": "InterpreterDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:11:02.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
