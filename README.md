@@ -14,7 +14,7 @@ Concrete expressions implement the IExpression interface and define the behavior
 The Interpreter class is responsible for interpreting the entire expression string. It breaks down the expression into commands, creates the appropriate concrete expression objects, and applies them to the context's value.
 
 ## UML Diagram
-![Image not loaded](UML design/WhatsApp Image 2024-09-03 at 11.35.43_1f4b74cb.jpg)
+![WhatsApp Image 2024-09-03 at 11 35 43_1f4b74cb](https://github.com/user-attachments/assets/7ae12abd-2ebd-46fe-a596-24b75829145c)
 
 ## Advantages
 Extensibility: New expressions can be easily added without modifying existing code, promoting the Open/Closed Principle.
